@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=crosfex-dev.crosfex-dev&left_color=beige"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=crosfex-dev.crosfex-dev&left_color=grey"  />
 </div>
 
 ###
